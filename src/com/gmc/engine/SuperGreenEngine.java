@@ -14,7 +14,7 @@ public class SuperGreenEngine {
 	
 	@Override
 	public String toString() {
-		return  new StringBuilder("SUPER ENGINE ").append(this.size).toString();
+		return new StringBuilder("SUPER ENGINE ").append(this.size).toString();
 	}
 
 }
