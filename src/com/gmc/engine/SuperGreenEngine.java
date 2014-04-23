@@ -1,5 +1,11 @@
 package com.gmc.engine;
 
+/**
+ * 
+ * @author carolus
+ *
+ */
+
 public class SuperGreenEngine {
 	
 	private int size;
