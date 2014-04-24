@@ -1,13 +1,10 @@
-/**
- * 
- */
 package com.gmc.engine;
 
 /**
  * 
  * Green Motor Company
  *
- * Based on: "Java Design Patterns Essentials", Tony Bevis
+ * Based on: "Java Design Pattern Essentials", Tony Bevis
  *
  * Date: Apr 23, 2014
  *
