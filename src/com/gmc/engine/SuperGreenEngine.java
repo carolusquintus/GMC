@@ -1,11 +1,19 @@
+/**
+ * 
+ */
 package com.gmc.engine;
 
 /**
  * 
+ * Green Motor Company
+ *
+ * Based on: "Java Design Patterns Essentials", Tony Bevis
+ *
+ * Date: Apr 23, 2014
+ *
  * @author carolus
  *
  */
-
 public class SuperGreenEngine {
 	
 	private int size;
